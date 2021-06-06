@@ -9,4 +9,4 @@ curl -X 'POST' \
   -F 'files=@1557584202182978680.jpg;type=image/jpeg' \
   -F 'files=@Drop-in_Extrusion_Nut.4.STL'
   
-  Files are saved on the server with the same names and extensions as they were send using the form. In this example - 2 .JPEG files and one .STL
+  Files are saved on the server with the same names and extensions. In this example - 2 .JPEG files and one .STL
