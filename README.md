@@ -2,7 +2,7 @@
 
 Example of request:
 curl -X 'POST' \
-  'http://81.163.30.201:8000/multiple' \
+  'http://HOST_ADDRESS/multiple' \
   -H 'accept: application/json' \
   -H 'Content-Type: multipart/form-data' \
   -F 'files=@b73827c0-dae8-11ea-a95f-47e6bb2ba811.jpg;type=image/jpeg' \
